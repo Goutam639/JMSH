@@ -4135,7 +4135,7 @@ td.text-right {
 /*------------------------------------------*/
 
 #doctor-1-details .doctor-photo {
-  margin-top: -220px;
+  margin-top: 60px;
   position: relative;
   z-index: 3;
 }
@@ -4167,11 +4167,11 @@ td.text-right {
 /*------------------------------------------*/
 
 .certificates {
-  margin-top: 30px;
+  margin-top: 0px;
 }
 
 .certificate-image {
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 
 /*------------------------------------------*/
