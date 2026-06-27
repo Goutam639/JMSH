@@ -123,7 +123,7 @@ video {
 }
 
 .desktoplogo {
-  margin: 0 0 0 300px;
+  margin: 0 0 0 max(15px, calc((100vw - 1140px) / 2 + 15px));
   float: left;
 }
 
@@ -1470,7 +1470,7 @@ video {
 /* Extra @Media Query*/
 @media only screen and (min-width: 992px) and (max-width:1162px) {
   .desktoplogo {
-    margin-left: 12px;
+    margin-left: max(15px, calc((100vw - 1140px) / 2 + 15px));
   }
 
   .wsmenu>.wsmenu-list>li>a>.wsarrow {
